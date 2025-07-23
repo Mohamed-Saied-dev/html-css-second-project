@@ -10,6 +10,5 @@ You can view the live version of the page here:
 ## Features
 - Responsive and modern layout
 - Inspired by a professional design template
-## Credits
-
+- 
 > This project was created for learning and front-end development practice.
